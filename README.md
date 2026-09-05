@@ -13,3 +13,6 @@ I found the command 'cd ..' pretty useful.
 Although this is a simple function, before I knew this, I had to either keep entering the directory
 address or start from the home directory
 
+# What I learned
+I am learning how Git and GitHub work together.
+
